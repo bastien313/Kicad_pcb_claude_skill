@@ -1,2 +1,2 @@
-# Kicad_claude_skill
+# Kicad__pcb_claude_skill
 Skill for Claude to interact With .kicad_pcb files
